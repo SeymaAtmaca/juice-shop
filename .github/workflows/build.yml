@@ -5,7 +5,7 @@ on:
     branches: ["master", "preparation"]
   pull_request:
     branches: ["master", "preparation"]
-  workflow_dispatch:
+
 
 jobs:
   gitleaks:
